@@ -386,9 +386,3 @@ footer p {
     justify-content: center;
   }
 }
-
-/* LARGE */
-/* @media (min-width: 1025px) and (max-width: 1200px) {
-} */
-
-/* o restante do tamanho extra large (>= 1200px) já é definido no css por padrão */
